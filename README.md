@@ -5,7 +5,7 @@ Criar aplicações com uma Interface via Linha de Comando ou Command-Line Interf
 
 A aplicação vai receber o caminho do diretório como argumento e vai exibir a árvore de diretórios na sua tela. 
 
-**Neste tutorial você vai aprender a: **
+** Neste tutorial você vai aprender a: **
 
 - Usar a biblioteca Python **argparse** par criar uma aplicação com CLI
 - Usar a biblioteca **pathlib** para percorrer recursivamente a estrutura do diretório
